@@ -10,8 +10,12 @@ If you choose to use our Service, then you agree to the collection and use of in
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
 ### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to user's name, email address, phone-number, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to user's name, email address, phone-number, location and pictures. The information that we request will be retained by us and used as described in this privacy policy.  
 The app does use third party services that may collect information used to facilitate application functionality. 
+
+Your name, email address and phone number are used to create a profile to enable you to access and use Niende App.
+
+Your location data is used to determine whether you are within our area of service or not.
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
